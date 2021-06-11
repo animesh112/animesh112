@@ -1,4 +1,4 @@
-<p >
+<p align="center">
   <img height="180em"  src="https://raw.githubusercontent.com/animesh112/animesh112/master/assets/circle-cropped.png"/>
  </p>
 
