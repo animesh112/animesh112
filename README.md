@@ -43,8 +43,7 @@
 
 <p align="center">
 <a href="https://github.com/abhishekchauhan15">
-  <img height="180em" src="[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekchauhan15)](https://github.com/abhishekchauhan15/github-readme-stats)
-"/>
+[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekchauhan15)](https://github.com/abhishekchauhan15/github-readme-stats)
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhishekchauhan15&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
