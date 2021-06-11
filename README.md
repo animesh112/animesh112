@@ -1,4 +1,4 @@
-![Abhishek Chauhan Banner]<center>(https://raw.githubusercontent.com/animesh112/animesh112/master/assets/banner.jpg)</center>
+![Abhishek Chauhan Banner](https://raw.githubusercontent.com/animesh112/animesh112/master/assets/banner.jpg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Abhishek</h2>
 
