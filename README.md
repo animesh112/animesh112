@@ -1,6 +1,6 @@
-<div align="center">
-  ![Abhishek Chauhan Banner](https://raw.githubusercontent.com/animesh112/animesh112/master/assets/banner.jpg)
- </div>
+<p align="center">
+  <img height="180em" src="https://raw.githubusercontent.com/animesh112/animesh112/master/assets/banner.jpg"/>
+ </p>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Abhishek</h2>
 
