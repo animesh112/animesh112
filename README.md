@@ -1,9 +1,11 @@
-![Abhishek Chauhan Banner](https://raw.githubusercontent.com/animesh112/animesh112/master/assets/banner.jpg)
+<p align="center">
+  ![Abhishek Chauhan Banner](https://raw.githubusercontent.com/animesh112/animesh112/master/assets/banner.jpg)
+ </p>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Abhishek</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Abhishek -->
-
+  
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
